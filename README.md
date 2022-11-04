@@ -28,5 +28,4 @@ Constante motivación por seguir aprendiendo y creciendo como profesional y como
 
 ## Mi trabajo
 
-* [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
  * [ESRE y Casos de Prueba](https://docs.google.com/document/d/1Bs9JmHFRUiNA4Mn7YvuC_r4nx1NE2eDLdEmuTc3BMjU/edit?usp=share_link)
